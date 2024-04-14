@@ -157,7 +157,7 @@ funcy==2.0
     # via django-cacheops
 gunicorn==21.2.0
     # via -r requirements/pip.in
-idna==3.4
+idna==3.7
     # via requests
 jmespath==1.0.1
     # via
