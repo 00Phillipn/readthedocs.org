@@ -44,7 +44,7 @@ click-repl==0.3.0
     # via celery
 cron-descriptor==1.4.0
     # via django-celery-beat
-cryptography==41.0.5
+cryptography==42.0.4
     # via pyjwt
 cssselect==1.2.0
     # via pyquery
@@ -157,7 +157,7 @@ funcy==2.0
     # via django-cacheops
 gunicorn==21.2.0
     # via -r requirements/pip.in
-idna==3.4
+idna==3.7
     # via requests
 jmespath==1.0.1
     # via
@@ -250,7 +250,7 @@ six==1.16.0
     #   unicode-slugify
 slumber==0.7.1
     # via -r requirements/pip.in
-sqlparse==0.4.4
+sqlparse==0.5.0
     # via
     #   django
     #   django-debug-toolbar
