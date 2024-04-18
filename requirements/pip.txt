@@ -155,7 +155,7 @@ filelock==3.13.1
     # via virtualenv
 funcy==2.0
     # via django-cacheops
-gunicorn==21.2.0
+gunicorn==22.0.0
     # via -r requirements/pip.in
 idna==3.4
     # via requests
