@@ -123,7 +123,7 @@ django-timezone-field==6.0.1
     # via django-celery-beat
 django-vanilla-views==3.0.0
     # via -r requirements/pip.in
-djangorestframework==3.14.0
+djangorestframework==3.15.2
     # via
     #   -r requirements/pip.in
     #   drf-extensions
