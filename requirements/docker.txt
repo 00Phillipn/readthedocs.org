@@ -457,3 +457,4 @@ websocket-client==1.6.4
     #   docker
 wmctrl==0.5
     # via pdbpp
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
