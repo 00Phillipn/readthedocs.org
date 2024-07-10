@@ -456,3 +456,4 @@ websocket-client==1.6.4
     #   docker
 yamale==2.2.0
     # via -r requirements/testing.in
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
