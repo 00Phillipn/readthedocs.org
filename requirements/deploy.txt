@@ -35,7 +35,7 @@ celery==5.2.7
     # via
     #   -r requirements/pip.txt
     #   django-celery-beat
-certifi==2023.7.22
+certifi==2024.7.4
     # via
     #   -r requirements/pip.txt
     #   elastic-transport
@@ -94,7 +94,7 @@ dj-pagination==2.5.0
     # via -r requirements/pip.txt
 dj-stripe==2.6.3
     # via -r requirements/pip.txt
-django==4.2.7
+django==4.2.26
     # via
     #   -r requirements/pip.txt
     #   dj-stripe
@@ -211,7 +211,7 @@ funcy==2.0
     #   django-cacheops
 gunicorn==21.2.0
     # via -r requirements/pip.txt
-idna==3.4
+idna==3.7
     # via
     #   -r requirements/pip.txt
     #   requests
@@ -316,7 +316,7 @@ redis==5.0.1
     #   django-cacheops
 regex==2023.10.3
     # via -r requirements/pip.txt
-requests==2.31.0
+requests==2.32.4
     # via
     #   -r requirements/pip.txt
     #   django-allauth
@@ -349,7 +349,7 @@ six==1.16.0
     #   unicode-slugify
 slumber==0.7.1
     # via -r requirements/pip.txt
-sqlparse==0.4.4
+sqlparse==0.5.0
     # via
     #   -r requirements/pip.txt
     #   django
@@ -393,7 +393,7 @@ unidecode==1.3.7
     # via
     #   -r requirements/pip.txt
     #   unicode-slugify
-urllib3==2.0.7
+urllib3==2.5.0
     # via
     #   -r requirements/pip.txt
     #   botocore
